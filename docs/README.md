@@ -1,6 +1,6 @@
 # Custom Grid
 
-Grilla interactiva que cambiara un orden y recibira componentes hijos.
+Grilla interactiva que cambiara un orden y recibira componentes hijos con ReactNode.
 
 <div align="center">
 
